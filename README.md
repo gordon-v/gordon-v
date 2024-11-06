@@ -16,7 +16,7 @@
 
 💬 Ask me about **CUDA, C#, Android Studio, GODOT... or anything [here](https://github.com/gordon-v/gordon-v/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **I don't remember 2012**
 
  </div>
  
